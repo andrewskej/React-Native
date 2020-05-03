@@ -1,0 +1,32 @@
+{
+    "results": [
+        {
+            "title": "React Native",
+            "abstract":"Build Native Mobile Apps using JS and React",
+            "url":"https://facebook.github.io/react-native",
+            "byline":"By andrewskeJ",
+            "published_date": "2018-12-07T00:00:00-5:00",
+            "get_facet":["Seoul, Korea"],
+            "multimedia":[
+                {
+                    "url":"https://facebook.github.io/react/img/logo_og.png",
+                    "format":"Thumblarge"
+                }
+            ]
+        },
+        {
+            "title": "on Apple products purchase",
+            "abstract":"seriously considering purchasing a macbook or ipad pro",
+            "url":"https://facebook.github.io/react-native",
+            "byline":"By andrewskeJ",
+            "published_date": "2018-12-07T00:00:00-5:00",
+            "get_facet":["Montreal, Canada"],
+            "multimedia":[
+                {
+                    "url":"https://facebook.github.io/react/img/logo_og.png",
+                    "format":"Thumblarge"
+                }
+            ]
+        }
+    ]
+}
