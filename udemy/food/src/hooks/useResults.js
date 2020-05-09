@@ -21,9 +21,9 @@ export default () => {
         }
     }
     
-    useEffect(()=>{
-        searchAPI('pasta')
-    },[])
+    // useEffect(()=>{
+    //     searchAPI('pasta')
+    // },[])
     
     return [searchAPI, results, errorMessage]
 }
