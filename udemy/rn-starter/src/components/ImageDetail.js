@@ -6,7 +6,7 @@ const ImageDetail = ({ imageSource, title, imageScore}) => {
         <View>
             <Image source ={imageSource} />
             <Text>{title}</Text>
-            <Text>Image Score - {imageScore}</Text>
+            <Text>Image Score : {imageScore}</Text>
         </View>
     )
 }
